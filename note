@@ -1,0 +1,17 @@
+1. install react and tailwindcss
+    npm create vite@latest
+    tailwindcss : https://tailwindcss.com/docs/guides/vite
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
+    delete 1 so file khong dung
+    install visual extendtion
+        es7+react/redux/react-native snippets
+        github compilot
+        multiple cursor case
+        prettier code formatter
+        tailwind css
+    upload to githup:
+    - back to main forder:
+        cd ..
+        git init
+        
