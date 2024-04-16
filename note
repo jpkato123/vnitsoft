@@ -14,4 +14,12 @@
     - back to main forder:
         cd ..
         git init
+        git add .
+        git commit -m 'create and install react and tailwin css'
+        git branch -M main
+        git remote add origin git@github.com:jpkato123/vnitsoft.git
+ 2. create pages and routes  
+    pages: signin, signup, about, project, dashboad
+    install: react router dom
+        npm i react-router-dom
         
