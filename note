@@ -22,4 +22,8 @@
     pages: signin, signup, about, project, dashboad
     install: react router dom
         npm i react-router-dom
-        
+3. creat header components
+    install flowbie : https://flowbite-react.com/docs/getting-started/quickstart
+    npm create flowbite-react@latest
+    react-icons: npm i react-icons
+
