@@ -40,3 +40,9 @@
     "dev": "nodemon api/index.js",
     "start": "node api/index"
   },--> co the run server : npm run dev hoac npm start
+  copy inoge file ra ngoai ngang voi api, sau do push to githup
+5. create and connect to mongodb : username:vnitsoft,pass:vnitsoft1989
+    root directory: npm i mongoose
+    sau do import vao index.js
+    cai dat : npm i dotenv
+    o root tao file .env va them bien cau hinh vao
