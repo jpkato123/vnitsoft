@@ -26,4 +26,17 @@
     install flowbie : https://flowbite-react.com/docs/getting-started/quickstart
     npm create flowbite-react@latest
     react-icons: npm i react-icons
-
+4. create and run server
+    at root directory: 
+    npm init -y // de tao package.json
+    tao forlder api/index.js
+    chay lenh tao server express: npm i express
+    tai file index.js import express vao
+    trong package.json them lenh "type" : "module"
+    cai dat nodemon de tu dich chay khi thay doi code
+    npm i nodemon
+    trong package.js them code 
+     "scripts": {
+    "dev": "nodemon api/index.js",
+    "start": "node api/index"
+  },--> co the run server : npm run dev hoac npm start
