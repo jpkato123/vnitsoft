@@ -46,3 +46,5 @@
     sau do import vao index.js
     cai dat : npm i dotenv
     o root tao file .env va them bien cau hinh vao
+6. create user model
+
